@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @c0derGitHub, Senior Software CtrlCV Engineer.
+- 👀 I’m interested in source code.
+- 🌱 I’m currently using golang,shell,python and java for k8s,okd,linux and some hardware.
+- 💞️ I’m looking to collaborate on Metaverse.
+- 📫 You reach me here.
